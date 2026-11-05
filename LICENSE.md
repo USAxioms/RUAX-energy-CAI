@@ -1,6 +1,6 @@
 ---
 
-### Suggested `LICENSE` (MIT License)
+MIT License
 
 ```text
 MIT License
